@@ -1,7 +1,27 @@
-# Dhayam-Game
-This is a 3d Interactive Tamil Traditional Dhayam Game - Madras Mind Works Intern Project
 
+# 🎲 Dhayam
+A 3D interactive strategy game for PC / VR / Android.
 
+### 📝 Description
+Dhayam is a 3D digital adaptation of the traditional Indian board game, often known as the precursor to Ludo. Designed for an immersive experience across PC, VR, and Android, Dhayam brings ancient strategy into the modern world with interactive gameplay and animated environments.
+
+### Gameplay
+1. Classic turn-based dice game
+2. Strategic movement of pawns
+3. Supports both solo and multiplayer modes
+4. Smooth, immersive controls for PC/VR/Android
+5. Culturally rich visuals and sound design
+
+### 🛠️ Development
+1. Made in Unity
+2. All mechanics scripted in C#
+3. Designed to work across multiple platforms
+4. Focus on traditional gameplay with a modern twist
+
+### What could have done better
+Animations – More fluid and expressive character movements would enhance immersion
+
+(Note - This is a MadrasMindWorks project developed by Akash Charles, thus the source code is not produced here)
 
 # Game Screenshots
 
